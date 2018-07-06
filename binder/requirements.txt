@@ -1,2 +1,3 @@
 requests
-libjson2csv
+jsonpath-rw
+pprint
